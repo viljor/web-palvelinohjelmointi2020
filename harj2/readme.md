@@ -1,0 +1,1 @@
+Kehitetty lokaalilla Xampp palvelimella.
